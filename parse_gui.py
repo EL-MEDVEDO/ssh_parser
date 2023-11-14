@@ -137,7 +137,6 @@ class SSHParserGUI(QWidget):
         # Проверка и добавление хоста
         try:
             if self.add_host_gui(host, port, username, password):
-                # Создание экземпляра парсера как атрибута класса
 
                 # Подключение SSH
                 self.ssh.ssh_connect()
