@@ -61,6 +61,9 @@ Python
 
 ![image](https://github.com/EL-MEDVEDO/ssh_parser/assets/110033694/841254ba-b09c-4fa7-b583-fcd9e35ee967)
 
+![image](https://github.com/EL-MEDVEDO/ssh_parser/assets/110033694/78d351cc-4a99-424a-9f71-cffcadab3c50)
+
+
 
 
 
